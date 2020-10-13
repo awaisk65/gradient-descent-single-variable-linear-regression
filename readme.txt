@@ -1,7 +1,7 @@
-=======================================================================================================================================================
-							LINEAR REGRESSION MODEL:
-							  by Engr. Awais Khan
-=======================================================================================================================================================
+==================================================================================================================================
+						LINEAR REGRESSION MODEL:
+						  by Engr. Awais Khan
+==================================================================================================================================
 
 
 A simple python program that implements Linear Regression on a sample dataset.
@@ -15,7 +15,7 @@ This repository contains two python files.
 =========================
 INSTALLATION DEPENDENCIES
 =========================
-The algorithms should work with Python 3.6 or above. Below are the dependencies required for the toolset with the versions with which the algorithm was tested:
+The model should work with Python 3.6 or above. Below are the dependencies required for the toolset with the versions with which the algorithm was tested:
  * Python 3.6.9
  * Numpy 1.19.2
  * tqdm 4.50.0
