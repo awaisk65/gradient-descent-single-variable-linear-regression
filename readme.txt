@@ -15,7 +15,7 @@ This repository contains two python files.
 =========================
 INSTALLATION DEPENDENCIES
 =========================
-The model should work with Python 3.6 or above. Below are the dependencies required for the toolset with the versions with which the algorithm was tested:
+This model should work with Python 3.6 or above. Below are the dependencies required for the toolset with the versions with which the algorithm was tested:
  * Python 3.6.9
  * Numpy 1.19.2
  * tqdm 4.50.0
